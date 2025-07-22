@@ -1,0 +1,165 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&family=Bebas+Neue&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+
+body {
+    background-color: #0c00c0;
+    margin: 0;
+    padding: 0;
+}
+
+.bloque-reclutamiento h1{
+    width: 100%;
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 80px;
+    margin-top: 50px;
+    margin-bottom: 0px;
+    padding-top: 10px;
+    background-color:#ffe667 ;
+    color: #0c00c0;
+    text-align: center;
+}
+
+.bloque-reclutamiento h2{
+    width: 100%;
+    font-family: "Atkinson Hyperlegible", sans-serif;
+    color: #ffffff;
+    text-align: center;
+}
+
+.proposito {
+    background-color: #8d8badb7;
+    height: auto;
+    padding: 40px;
+}
+
+.proposito h2{
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 35px;
+    width: 250px;
+    border-radius: 5px;
+    margin: auto;
+    margin-bottom: 10px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #0c00c0;
+    background-color:#ffe667 ;
+}
+
+.proposito p{
+    width: 60%;
+    line-height: 2.5;
+    font-size: 20px;
+    font-family: "inter", sans-serif;
+    margin: auto;
+    text-align: justify;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #ffffff;
+}
+
+.nuestro-equipo {
+    background-color: #1c1946b7;
+    height: auto;
+    padding: 20px;
+}
+
+.nuestro-equipo h2{
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 35px;
+    margin-bottom:10px ;
+    width: 200px;
+    margin: auto;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #ffe667 
+}
+
+.equipo-cuadro {
+    width: 80%;
+    gap: 30px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+.equipo-carta{
+    width: 200px;
+    margin: 10px;
+    padding: 10px;
+    background-color: #ffffff36;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.equipo-carta p {
+    color: #ffffff;
+    font-family: "Inter", sans-serif;
+    font-weight: bold;
+}
+
+.equipo-carta img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
+
+.nuestras-vacantes {
+    background-color: #403e61b7;
+    height: auto;
+    padding: 20px;
+}
+
+.nuestras-vacantes h2{
+    width: 250px;
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 35px;
+    width: 250px;
+    border-radius: 5px;
+    margin: auto;
+    margin-bottom:10px ;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #0c00c0;
+    background-color:#ffe667 ;
+}
+
+.vacantes-cuadro {
+    width: 80%;
+    gap: 30px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.vacante-carta {
+    width: 200px;
+    margin: 10px;
+    padding: 10px;
+    background-color: #ffe667;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.vacante-carta p {
+    color: #ffffff;
+}
+
+.vacante-carta img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
+
+
+
+
